@@ -9,15 +9,15 @@ Our data is labeled using Giovanni's implementaiton of B-SZZ, AG-SZZ, MA-SZZ and
 - R 	4.1.2
 
 ```
-randomForest 	 	4.7
+randomForest  4.7
 
-ROSE	          0.0
+ROSE          0.0
 
-smotefamily     1.3.1
+smotefamily   1.3.1
 
-scoring         0.6
+scoring       0.6
 
-SDMTools        1.1
+SDMTools      1.1
 ```
 
 ### Repository Structure
