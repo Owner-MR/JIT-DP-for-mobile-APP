@@ -11,7 +11,7 @@ Our data is labeled using Giovanni's implementaiton of B-SZZ, AG-SZZ, MA-SZZ and
 ```
 randomForest 	 	4.7
 
-ROSE				    0.0
+ROSE	          0.0
 
 smotefamily     1.3.1
 
