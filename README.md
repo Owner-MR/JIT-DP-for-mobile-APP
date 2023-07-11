@@ -32,7 +32,7 @@ Part of our code is based on the code provided by Fan et al, See https://github.
 - `./data_results/`: Data set and results
   - `data_results/data_csv_time`: Original Data set labeled B-SZZ, AG-SZZ, MA-SZZ, and RA-SZZ.
   - `data_results/data_csv_time_ln`: Data set after ln (x+1) processing.
-  - ``data_results/collinearity.csv`: Features removed by the AutoSpearman algorithm.
+  - `data_results/collinearity.csv`: Features removed by the AutoSpearman algorithm.
 
 ### How to run
 
