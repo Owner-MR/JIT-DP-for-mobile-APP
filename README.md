@@ -36,7 +36,7 @@ Part of our code is based on the code provided by Fan et al, See https://github.
 
 ### How to run
 
-- Modify three lines in the file `./Experimental documentation/codecalculation/main.R`, the lines are as follows:
+- Modify three lines in the file `./Experimental documentation/code/calculation/main.R`, the lines are as follows:
 
   ```R
   # Specify the DIRECTORY path storing the code of this repository
