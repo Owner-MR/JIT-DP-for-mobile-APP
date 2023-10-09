@@ -1,5 +1,7 @@
-AntennaPod,AnySoftKeyboard,atmosphere,Conversations,kiwix-android,owncloud-android,AndroidAPS,k-9,SeriesGuide
-nd,nd,entropy,entropy,nd,nd,nd,nd,nd
-ndev,rexp,nd,rexp,exp,rexp,lt,lt,rexp
-exp,nuc,rexp,sexp,,,exp,exp,
-sexp,,,,,,,,
+AntennaPod,AnySoftKeyboard,atmosphere,Conversations,kiwix-android,owncloud-android,AndroidAPS,k-9,SeriesGuide,afwall,alfresco-android-app,android-sync,Android-Wallpaper,ChatSecureAndroid,facebook-android-sdk,PageTurner,wear-notify-for-reddit
+nd,nd,entropy,entropy,nd,nd,nd,nd,nd,entropy,nd,nd,nd,nd,nd,nd,nd
+ndev,rexp,nd,rexp,exp,rexp,lt,lt,rexp,exp,nf,lt,nf,rexp,entropy,rexp,nf
+exp,nuc,rexp,sexp,,,exp,exp,,,ndev,exp,exp,,rexp,sexp,entropy
+sexp,,,,,,,,,,nuc,,sexp,,,,exp
+,,,,,,,,,,exp,,,,,,
+,,,,,,,,,,sexp,,,,,,
